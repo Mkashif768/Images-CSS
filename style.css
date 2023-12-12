@@ -1,0 +1,59 @@
+/* SIZE OF IMAGES */
+/* img{
+    width: 250;
+    height: 250px;
+} */
+
+/* ALIGNING IMAGES */
+/* img{
+    margin-left: 200px;
+} */
+
+/* img{
+    float: right;
+} */
+/* CREATING IMAGES  */
+/* img{
+    display: block;
+    margin: auto;
+} */
+
+/* BACKGROUND IMAGES */
+/* body{
+    background-image: url(./images/bg\ images\ \(1\).jpg);
+} */
+/* background repeat */
+/* body{
+    background-image: url(./images/super.bike.webp);
+    background-repeat: no-repeat;
+} */
+
+/* background position */
+/* body{
+    background-image: url(./images/super.bike.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left center;
+    background-position: right bottom;
+} */
+
+/* background shorthand */
+/* body{
+    background-image: url('./images/super.bike.webp') no-repeat top right;
+} */
+
+/* GRADIENTS  */
+
+/* linear gradients */
+/* body{
+    background-image: linear-gradient(red yellow);
+    background-repeat: no-repeat;
+} */
+
+/* body{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  } */
+  
+/* body{
+    background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+  } */
